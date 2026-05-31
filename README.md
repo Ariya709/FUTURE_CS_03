@@ -143,7 +143,7 @@ All screenshots and analysis materials are available in the
 
 ## Final Report
 
-[View API Security Risk Analysis Report (Canva)]((https://canva.link/uhn4oywcekowmtl))
+[View API Security Risk Analysis Report (Canva)](https://canva.link/uhn4oywcekowmtl)
 
 ---
 
