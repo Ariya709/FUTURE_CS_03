@@ -137,7 +137,7 @@
 ## Evidence Folder
 
 All screenshots and analysis materials are available in the  
-[(Evidence Folder 3)]
+(Evidence Folder 3)
 
 ---
 
