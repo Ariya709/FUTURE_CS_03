@@ -125,12 +125,12 @@
 
 | # | Screenshot | Description |
 |---|------------|-------------|
-| 1 | [01-get-request.png](screenshots/01-get-request.png) | GET /posts - 200 OK response |
-| 2 | [02-idor-test.png](screenshots/02-idor-test.png) | IDOR - accessing /posts/2, /posts/3 |
-| 3 | [03-no-auth.png](screenshots/03-no-auth.png) | POST request without authentication - 201 Created |
-| 4 | [04-pii-exposure.png](screenshots/04-pii-exposure.png) | PII exposure - email and phone visible |
-| 5 | [05-rate-limit.png](screenshots/05-rate-limit.png) | No rate limiting - multiple rapid requests |
-| 6 | [06-http-allowed.png](screenshots/06-http-allowed.png) | HTTP allowed - no HTTPS enforcement |
+| 1 | [01-get-request.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/01-get-request.png) | GET /posts - 200 OK response |
+| 2 | [02-idor-test.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/02-idor-test.png) | IDOR - accessing /posts/2, /posts/3 |
+| 3 | [03-no-auth.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/03-no-auth.png) | POST request without authentication - 201 Created |
+| 4 | [04-pii-exposure.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/04-pii-exposure.png) | PII exposure - email and phone visible |
+| 5 | [05-rate-limit.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/05-rate-limit.png) | No rate limiting - multiple rapid requests |
+| 6 | [06-http-allowed.png](https://github.com/Ariya709/FUTURE_CS_03/blob/main/06-http-allowed.png) | HTTP allowed - no HTTPS enforcement |
 
 ---
 
